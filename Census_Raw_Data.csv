@@ -1,4 +1,4 @@
-,Table,Country,Year,Column,Value
+,table,country,year,column,value
 0,birth_death_growth_rates,Fiji,2008,country_code,FJ
 1,birth_death_growth_rates,Fiji,2008,crude_birth_rate,23.04
 2,birth_death_growth_rates,Fiji,2008,crude_death_rate,5.86
